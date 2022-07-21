@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NBNwXXVueDGFTwOLDZ17uy3egVKYoj+dvU055ligimVwoTBzfJmBfJQOYtQbmv3Yh9gSVQQnYl5tUBxXvK0OA==",
+  "success": true,
+  "projectFilePath": "D:\\automationscripts\\eBay_playwright\\eBay_playwright.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.playwright\\1.23.0\\microsoft.playwright.1.23.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
